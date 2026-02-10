@@ -1,6 +1,8 @@
 Work Split for Iteration 1:
 
 When finished with a task, put "COMPLETED" at the end of the line
+If you find your task is more difficult/longer than expected and want help, let people know
+If you find your task is easier/shorter than expected, let people know and help out elsewhere
 
 By Wednesday 2/11:
   Everyone: Decide which two other fully-dressed use cases you will make (don't have to complete them yet) and list them below
