@@ -5,8 +5,8 @@ If you find your task is more difficult/longer than expected and want help, let 
 If you find your task is easier/shorter than expected, let people know and help out elsewhere
 
 By Wednesday 2/11:
-  Everyone: Decide which two other fully-dressed use cases you will make (don't have to complete them yet) and list them below
-    Matt: Check in a Guest, Check out a Guest, Search Reservations    COMPLETED
+  Everyone: Decide which two other fully-dressed use cases you will make and list them below (mark completed when you've finished them all)
+    Matt: Check in a Guest, Check out a Guest, Search Reservations
     Duane: Cancel Reservation, 
     Andrew: Login, 
     Emmanuel: Reset Password, 
