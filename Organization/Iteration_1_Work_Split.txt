@@ -10,7 +10,7 @@ By Wednesday 2/11:
     Duane: Cancel Reservation, 
     Andrew: Login, 
     Emmanuel: Reset Password, 
-    Hannah: Book a Reservation, Update Room Infromation, Monitor Room Status
+    Hannah: Book a Reservation, Update Room Infromation, Monitor Room Status (COMPLETED)
 
 By Monday 2/16:
   Everyone: Complete three fully-dressed use cases along with SSDs and Operation Contracts 
