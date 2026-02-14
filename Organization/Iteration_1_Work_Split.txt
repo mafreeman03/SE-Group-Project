@@ -8,9 +8,9 @@ By Wednesday 2/11:
   Everyone: Decide which two other fully-dressed use cases you will make and list them below (mark completed when you've finished them all)
     Matt: Check in a Guest, Check out a Guest, Search Reservations
     Duane: Cancel Reservation, 
-    Andrew: Login, 
+    Andrew: Login, Create Account, Purchase Items & Generate Combined Bill
     Emmanuel: Reset Password, 
-    Hannah: Book a Reservation, Update Room Infromation, Monitor Room Status (COMPLETED)
+    Hannah: Book a Reservation, Update Room Information, Monitor Room Status (COMPLETED)
 
 By Monday 2/16:
   Everyone: Complete three fully-dressed use cases along with SSDs and Operation Contracts 
@@ -19,6 +19,6 @@ By Monday 2/16:
             Help on Presentation when done with your work
   Matt: Complete Use Case Diagram, create PDF Deliverable
   Duane: Create Presentation
-  Andrew: Create Website
+  Andrew: (She said we don't need a website for this iteration so I can help anyone else with anything they need help on)
   Emmanuel: Create Domain Model
   Hannah: Create Wireframe drafts (UI sketches)
